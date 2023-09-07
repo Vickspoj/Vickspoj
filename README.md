@@ -32,5 +32,8 @@ Skills and Tools:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicks.poj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicks.poj@gmail.com)
 
+
+[![CV](https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1akqVSre2Gof6sHtqVAe42Kp3rJ3jbPt9/view?usp=sharing)
+
 Thanks for visiting my profile! Looking forward to working together on exciting projects. 🚀
 
