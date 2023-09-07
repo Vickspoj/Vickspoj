@@ -23,6 +23,7 @@ Skills and Tools:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 #### Social Media and Contact:
@@ -32,8 +33,9 @@ Skills and Tools:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicks.poj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicks.poj@gmail.com)
 
+#### CV:
 
-[![CV](https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1akqVSre2Gof6sHtqVAe42Kp3rJ3jbPt9/view?usp=sharing)
+[![View CV](https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1akqVSre2Gof6sHtqVAe42Kp3rJ3jbPt9/view?usp=sharing)
 
 Thanks for visiting my profile! Looking forward to working together on exciting projects. 🚀
 
