@@ -1,8 +1,10 @@
-### ¡Hola! 👋 Soy Vickspoj
+### Hello! 👋 I'm Vickspoj
 
-Soy un estudiante de ingeniería en sistemas apasionado por la tecnología y el desarrollo web.
+I'm a computer engineering student passionate about technology, specializing in two main areas:
 
-#### Lenguajes y tecnologías que domino:
+#### Web Development and Programming:
+
+Skills and Technologies:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,12 +16,20 @@ Soy un estudiante de ingeniería en sistemas apasionado por la tecnología y el 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### Redes Sociales:
+#### Graphic Design and UX/UI:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicks-poj/)
+Skills and Tools:
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+#### Social Media and Contact:
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vickspoj)
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicks.poj@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuinstagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicks-poj/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicks.poj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicks.poj@gmail.com)
 
-¡Gracias por visitar mi perfil! Espero trabajar juntos en futuros proyectos emocionantes. 🚀
-
+Thanks for visiting my profile! Looking forward to working together on exciting projects. 🚀
